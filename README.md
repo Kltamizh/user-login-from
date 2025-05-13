@@ -1,4 +1,5 @@
 🛡️ Flask User Authentication System
+
 A simple Flask web application that implements user registration, login, session management, and admin dashboard functionality using SQLite and SQLAlchemy.
 
 📌 Features
